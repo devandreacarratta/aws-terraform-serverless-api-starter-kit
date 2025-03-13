@@ -1,0 +1,19 @@
+{
+    "CustomerId": "CUST-9976",
+    "products": [
+        {
+            "quantity": 3,
+            "single_price": 30.9,
+            "product_discount": 1.04,
+            "total_product_amount": 91.66
+        },
+        {
+            "quantity": 3,
+            "single_price": 38.14,
+            "product_discount": 0.0,
+            "total_product_amount": 114.42
+        }
+    ],
+    "order_discount": 29.55,
+    "order_amount": 176.53
+}
