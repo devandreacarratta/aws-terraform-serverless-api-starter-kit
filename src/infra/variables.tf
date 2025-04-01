@@ -14,6 +14,12 @@ variable "project_environment" {
   nullable = false
 }
 
+# Random ID
+variable "random_id_byte_length" {
+  type    = number
+  default = 8
+}
+
 # cloudwatch
 
 variable "cloudwatch_retention_in_days" {
